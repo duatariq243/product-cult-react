@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/duatariq243/product-cult-react.git/static/css/main.812adcb6.css",
-    "main.js": "/duatariq243/product-cult-react.git/static/js/main.7b2c3d9b.js",
-    "index.html": "/duatariq243/product-cult-react.git/index.html",
-    "main.812adcb6.css.map": "/duatariq243/product-cult-react.git/static/css/main.812adcb6.css.map",
-    "main.7b2c3d9b.js.map": "/duatariq243/product-cult-react.git/static/js/main.7b2c3d9b.js.map"
+    "main.css": "/product-cult-react/static/css/main.812adcb6.css",
+    "main.js": "/product-cult-react/static/js/main.7b2c3d9b.js",
+    "index.html": "/product-cult-react/index.html",
+    "main.812adcb6.css.map": "/product-cult-react/static/css/main.812adcb6.css.map",
+    "main.7b2c3d9b.js.map": "/product-cult-react/static/js/main.7b2c3d9b.js.map"
   },
   "entrypoints": [
     "static/css/main.812adcb6.css",
