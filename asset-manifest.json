@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/product-cult-react/static/css/main.812adcb6.css",
-    "main.js": "/product-cult-react/static/js/main.7b2c3d9b.js",
+    "main.js": "/product-cult-react/static/js/main.884de75a.js",
     "index.html": "/product-cult-react/index.html",
     "main.812adcb6.css.map": "/product-cult-react/static/css/main.812adcb6.css.map",
-    "main.7b2c3d9b.js.map": "/product-cult-react/static/js/main.7b2c3d9b.js.map"
+    "main.884de75a.js.map": "/product-cult-react/static/js/main.884de75a.js.map"
   },
   "entrypoints": [
     "static/css/main.812adcb6.css",
-    "static/js/main.7b2c3d9b.js"
+    "static/js/main.884de75a.js"
   ]
 }
