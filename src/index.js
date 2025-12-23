@@ -8,7 +8,7 @@ import "./index.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/product-cult-react">
     <App />
     
   </BrowserRouter>
